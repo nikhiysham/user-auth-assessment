@@ -17,10 +17,10 @@ User Auth App Assessment.
 
 ## Setup Instructions
 
-1. Install dependencies
+1. Install dependencies -
    npm install
 
-2. Start the app
+2. Start the app -
    npx expo start
 
 ## Implemented Features
